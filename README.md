@@ -17,14 +17,13 @@ Aby zainstalować bibliotekę lokalnie, wykonaj poniższe kroki:
 1. Sklonuj repozytorium:
 
    ```bash
-   git clone https://github.com/Preziu97/zadanie3/my_awesome_lib.git
-   cd my_awesome_lib
+   git clone https://github.com/Preziu97/zadanie3
    ```
 
 2. Zainstaluj bibliotekę lokalnie:
 
    ```bash
-   pip install -e .
+   pip install -e ./zadanie3 .
    ```
 
 ## Przykłady użycia
