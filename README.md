@@ -1,6 +1,6 @@
 # My Awesome Lib
 
-My Awesome Lib to wszechstronna biblioteka w Pythonie, która zawiera zestaw narzędzi do przeprowadzania podstawowych operacji na danych, tekstach oraz matematycznych obliczeń. Biblioteka zawiera funkcje, które pozwalają na manipulację danymi, wykonywanie podstawowych operacji matematycznych, oraz przetwarzanie tekstów.
+My Awesome Lib to biblioteka w Pythonie, która zawiera zestaw narzędzi do przeprowadzania podstawowych operacji na danych, tekstach oraz matematycznych obliczeń. Biblioteka zawiera funkcje, które pozwalają na manipulację danymi, wykonywanie podstawowych operacji matematycznych, oraz przetwarzanie tekstów.
 
 ## Funkcjonalności
 
