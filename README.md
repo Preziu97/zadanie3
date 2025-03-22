@@ -23,7 +23,7 @@ Aby zainstalować bibliotekę lokalnie, wykonaj poniższe kroki:
 2. Zainstaluj bibliotekę lokalnie:
 
    ```bash
-   pip install -e ./zadanie3 .
+   pip install -e ./zadanie3
    ```
 
 ## Przykłady użycia
