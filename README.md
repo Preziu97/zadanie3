@@ -105,8 +105,13 @@ print(reversed_text)  # Wynik: "alA"
 
 ## Testowanie
 
-Biblioteka zawiera zestaw testów jednostkowych sprawdzających poprawność funkcji. Aby uruchomić testy, użyj `unittest`:
+Biblioteka zawiera zestaw testów jednostkowych sprawdzających poprawność funkcji. Aby je wykonać:
 
+1. Upewnij się, że jesteś w katalogu zadanie3:
+```bash
+cd zadanie3 
+```
+2. Uruchom testy używając `unittest`:
 ```bash
 python -m unittest discover tests/
 ```
